@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CjPadua
+- 👋 Hi, I’m Cj Padua
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently taking Bachelor of Science in Computer Engineering while learning Web Development.
 - 📫 You can reach me through @cediejamesapadua@gmail.com
