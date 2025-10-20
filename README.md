@@ -34,11 +34,6 @@ I enjoy solving problems through **Web Development, Network Embedded Systems**, 
 ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?logo=googlesheets&logoColor=white)
 
-**Design Tools:**  
-![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)
-
 ---
 
 ### 💬 Interests
