@@ -7,6 +7,7 @@
 
 ### 🧠 About Me
 I’m a **Computer Engineering student** at **University of Cabuyao (Pamantasan ng Cabuyao)** passionate about building impactful systems that connect hardware and software.  
+
 I enjoy solving problems through **Web Development, Network Embedded Systems**, and **AI-powered applications**.  
 
 ---
